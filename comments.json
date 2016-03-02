@@ -2,11 +2,31 @@
     {
         "id": 1388534400000,
         "author": "Pete Hunt",
-        "text": "Hey there!"
+        "text": "Hey there!",
+        "type": 1
     },
     {
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "text": "React is *great*!",
+        "type": 1
+    },
+    {
+        "id": 1420070400001,
+        "author": "Paul O’Hanassy",
+        "text": "React is *great*!",
+        "type": 2
+    },
+    {
+        "id": 1456953366123,
+        "author": "somethin",
+        "text": "here",
+        "type": 2
+    },
+    {
+        "id": 1456953379392,
+        "author": "Billys name",
+        "text": "booooooooo",
+        "type": 2
     }
 ]
